@@ -1,0 +1,23 @@
+body {
+    font-family: 'UD Digi Kyokasho NK-R';
+    background-image: image();
+}
+
+ul {
+    font-family: 'UD Digi Kyokasho NK-R';
+}
+li {
+    list-style: square;
+  }
+  
+  .list {
+    list-style: 'arrow';
+  }
+  
+  #msg {
+    font-family:'UD Digi Kyokasho NK-R';
+    list-style: square;
+  }
+  .light-theme {
+    color:white;
+  }
